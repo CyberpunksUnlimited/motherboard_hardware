@@ -9,7 +9,7 @@
   * Choosing between USB 2.0 or USB 3.0 or USB 3.1
   * Chossing how many USB slots there will be in the main board
   * TODO...
-* TODO hardwere part I [0/2]
+* TODO hardware part I [0/2]
 - [-] Documentation [0/2]
   - [ ] Defining Specifications
   - [ ] Generating Documentation
