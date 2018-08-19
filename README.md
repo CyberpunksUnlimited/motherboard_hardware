@@ -1,1 +1,0 @@
-# motherboard_hardware
