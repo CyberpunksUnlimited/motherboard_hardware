@@ -1,5 +1,6 @@
-* Thinkpad Inspired Motherboard
-** Current Challenges Checklist
+#+STARTUP: overview
+#+TITLE: ThinkPad Inspired Motherboard
+* Current Challenges Checklist
   Note that the order in which these itens are displayed does not explict dependencies, for that there will be a sub list for every item in the list containing its dependencies(if any).
   * Finding a processor socket package for either kicad open source PCB CAD or Altium PCB CAD.
   * Choosing the bios chip for the board.
@@ -9,7 +10,8 @@
   * Choosing between USB 2.0 or USB 3.0 or USB 3.1
   * Chossing how many USB slots there will be in the main board
   * TODO...
-* TODO hardware part I [0/2]
+
+* TODO Hardware part I [0/2]
 - [-] Documentation [0/2]
   - [ ] Defining Specifications
   - [ ] Generating Documentation
@@ -27,7 +29,8 @@
     - [ ] PCB assembly cost
     - [ ] Generating documentation and adding it to master
 - [ ] TODO TODO
-* TODO software part I [0/n]
+
+* TODO Software part I [0/n]
 - [-] Documentation [0/2]
   - [ ] Defining Specifications
   - [ ] Generating Documentation
