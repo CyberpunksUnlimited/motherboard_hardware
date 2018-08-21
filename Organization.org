@@ -6,38 +6,38 @@
 ** Choosing the bios chip for the board.
 ** Choosing between using on board GPU or external one.
 ** Choosing between DDR3/4 RAM or both.
+CHOICE :
 ** Choosing how many RAM slot there will be in the main board
 ** Choosing between USB 2.0 or USB 3.0 or USB 3.1
-** Chossing how many USB slots there will be in the main board
-** TODO...
-
-* TODO Hardware part I [0/3]
-- [ ] Documentation [0/2]
+** Choosing how many USB slots there will be in the main board
+** Choosing the Nort/South bridge chip
+* TODO Hardware part I [0%]
+- [ ] Documentation [0%]
   - [ ] Defining Specifications
   - [ ] Generating Documentation
-- [ ] Research[0/3]
-  - [ ] Reverser Engineering [0/2]
+- [ ] Research[0%]
+  - [ ] Reverser Engineering [0%]
     - [ ] Choosing boards for RE
     - [ ] RE boards and compiling theirs engineering technics
-  - [ ] PCB designing [0/3]
+  - [ ] PCB designing [0%]
     - [ ] 
     - [ ]
     - [ ]
-  - [ ] PCB manufacturing [0/4]
+  - [ ] PCB manufacturing [0%]
     - [ ] PCB cost per unit
     - [ ] PCB components cost per unit
     - [ ] PCB assembly cost
     - [ ] Generating documentation and adding it to master
 - [ ] TODO TODO
-* TODO Software part I [0/n]
-- [-] Documentation [0/2]
+* TODO Software part I [0%]
+- [ ] Documentation [0%]
   - [ ] Defining Specifications
   - [ ] Generating Documentation
-- [-] Custom bios [0/n]
-- [-] Leds programming [0/n]
-- [-] Custom bootloader [0/n]
-- [-] Custom kernel [0/n]
-- [ ] Intranet [0/2]
-  - [ ] Encryption [0/n]
-  - [ ] Decryption [0/n]
-- [-] Custom Drivers [0/n]
+- [-] Custom bios [0%]
+- [-] Leds programming [0%]
+- [-] Custom bootloader [0%]
+- [-] Custom kernel [0%]
+- [ ] Intranet [0%]
+  - [ ] Encryption [0%]
+  - [ ] Decryption [0%]
+- [-] Custom Drivers [0%]
