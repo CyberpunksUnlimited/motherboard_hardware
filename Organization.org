@@ -59,7 +59,4 @@ CHOICE :
   - [ ] Second Revision
   - [ ] Third Revision
   - [ ] Cooling Solution
-  - [ ] Case Material 
-
-Display ratio -> 
-Display Size -> 
+  - [ ] Case Material
