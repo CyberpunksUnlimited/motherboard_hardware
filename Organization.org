@@ -1,6 +1,6 @@
 #+STARTUP: overview
 #+TITLE: ThinkPad Inspired Motherboard
-* Currsent Challenges Checklist
+* Current Challenges Checklist
   Note that the order in which these itens are displayed does not explict dependencies, for that there will be a sub list for every item in the list containing its dependencies(if any).
 ** Finding a processor socket package for either kicad open source PCB CAD or Altium PCB CAD.
 ** Choosing the bios chip for the board
@@ -44,3 +44,22 @@ CHOICE :
   - [ ] Encryption [0%]
   - [ ] Decryption [0%]
 - [-] Custom Drivers [0%]
+  
+* TODO Hardware part II [0%] 
+- [ ] Documentation [0%]
+  - [ ] Defining Specifications
+  - [ ] Generating Documentation
+- [ ] Measuring board dimentions
+- [-] CAD prototiping the laptop case [44%]
+  - [X] Basic Board Dimentions
+  - [X] Basic Components
+  - [X] Basic Shape
+  - [X] Basic Assembly
+  - [ ] First Revision
+  - [ ] Second Revision
+  - [ ] Third Revision
+  - [ ] Cooling Solution
+  - [ ] Case Material 
+
+Display ratio -> 
+Display Size -> 
